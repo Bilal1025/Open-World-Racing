@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SEGAME" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Bilal\\Documents\\Visual\ Studio\ 2017\\Projects\\WebApplication3\\WebApplication3\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Bilal\\Documents\\Visual\ Studio\ 2017\\Projects\\WebApplication3\\WebApplication3\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

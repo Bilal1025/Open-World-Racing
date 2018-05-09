@@ -1,0 +1,8 @@
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\bilal\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
